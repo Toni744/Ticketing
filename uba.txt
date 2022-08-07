@@ -5,4 +5,8 @@ Not your man, alejandro
 leandro
 
 showing head movements
+<<<<<<< HEAD
 Adding a new line of text from bugfix
+=======
+Adding Semi spesh to bugfix
+>>>>>>> bugfix
