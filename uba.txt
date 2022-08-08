@@ -10,3 +10,4 @@ Adding a new line of text from bugfix
 =======
 Adding Semi spesh to bugfix
 >>>>>>> bugfix
+Adding new line from the GUI
